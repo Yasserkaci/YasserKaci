@@ -1,30 +1,36 @@
-Hello, I'm Yasser Abd Eldjalil Kaci 👋
-I am a Senior Full-Stack Developer and CTO based in Algeria. I build scalable digital solutions and manage high-impact web ventures, all while keeping a curious mind for engineering, music, and motorsports.
+# Yasser Abd Eldjalil Kaci
 
-💻 Technical Expertise
-Full-Stack Development: Expert in building modern web applications with a focus on performance and scalability.
+**Senior Full-Stack Developer & CTO** — Algeria
 
-Architecture & Leadership: CTO experience driving technical strategy, hiring, and agency growth at Thalab.
+I build scalable digital products and lead engineering at high-impact web ventures. My focus is on performance, maintainability, and pragmatic architecture that helps teams ship faster.
 
-Tech Stack: I thrive in environments using Node.js, Supabase, and React/Next.js, while leveraging GitHub and Notion for team management and documentation.
+---
 
-E-commerce: Experienced in scaling Shopify platforms and custom theme development.
+## Technical Expertise
 
-🚀 Projects & Ventures
-Thalab: A web development agency where I lead engineering and business growth.
+- **Full-Stack Development** — Modern web applications engineered for performance and scale.
+- **Architecture & Leadership** — CTO experience covering technical strategy, hiring, and agency growth at Thalab.
+- **Core Stack** — Node.js, React / Next.js, Supabase, PostgreSQL, TypeScript.
+- **Tooling** — GitHub for source control and team workflows; Notion for documentation and delivery.
+- **E-commerce** — Shopify platform scaling and custom theme development.
 
-AI Racing Coach: Currently developing a telemetry-based performance tracker for karting using Raspberry Pi 5, GPS, and IMU sensors.
+## Selected Projects
 
-E-commerce Operations: Scaling diverse brands like Key To Life, Anti, and Creative Pushers.
+- **[Thalab](#)** — Web development agency where I lead engineering and business growth.
+- **AI Racing Coach** — Telemetry-based performance tracker for karting, built on Raspberry Pi 5 with GPS and IMU sensors.
+- **E-commerce Operations** — Scaling brands including Key To Life, Anti, and Creative Pushers.
 
-🧠 Beyond the Code
-I believe in constant optimization—not just in code, but in life:
+## Beyond the Code
 
-🎸 Music: Self-taught guitarist (Rock/Metal). I spend time mastering complex riffs and technical solos.
+Optimization is a mindset I apply well outside the terminal:
 
-🏎️ Motorsports: Competitive karting enthusiast, using telemetry to refine my trail braking and throttle control.
+- **Music** — Self-taught guitarist focused on rock and metal technique.
+- **Motorsports** — Competitive karting; I use telemetry to refine trail braking and throttle control.
+- **Chess** — 2300 Elo, primarily a Caro-Kann player.
+- **Engineering** — Ongoing work with high-performance 3D printing (PPS-CF) and experiments in AI-driven brainwave interpretation.
 
-🧪 Engineering: Always exploring the bleeding edge—from 3D printing with high-performance materials (PPS-CF) to AI-driven brainwave interpretation.
+---
 
-⚡ Fun Stats
-Always open to discussing new tech, racing telemetry, or chess strategies. Let's build something.
+Open to conversations about engineering, racing telemetry, or chess.
+
+**Contact:** soudainx@gmail.com
